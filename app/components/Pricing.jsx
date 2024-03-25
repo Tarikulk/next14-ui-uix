@@ -68,8 +68,6 @@ export function Pricing(){
 
                 </div>
 
-                
-
             </div>
 
         </div>
