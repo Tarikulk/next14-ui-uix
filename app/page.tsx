@@ -1,10 +1,10 @@
-import { Features } from "./components/Features";
 import { Hero } from "./components/Hero";
 import { Navbar } from "./components/Navbar";
 import { Faq } from "./components/Faq";
 import { Pricing } from "./components/Pricing";
 import { Cta } from "./components/Cta";
 import { Footer } from "./components/Footer";
+import { Features } from "./components/Features";
 
 export default function Home() {
   return (
